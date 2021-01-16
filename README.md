@@ -71,10 +71,10 @@
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <h4 align="left">High Skill:</h4>
-        <a href="https://stackshare.io/rails" target="_blank"><i class="devicon-rails-plain-wordmark colored" style="font-size: 40px;" alt="rails"></i></a>
-        <a href="https://stackshare.io/ruby" target="_blank"><i class="devicon-ruby-plain colored" alt="ruby" style="font-size: 40px;"></i></a>
-        <a href="https://stackshare.io/nodejs" target="_blank"><i class="devicon-nodejs-plain colored" style="font-size: 40px;" alt="nodejs"></i></a>
-        <a href="https://stackshare.io/vue-js" target="_blank"><i class="devicon-vuejs-plain colored" style="font-size: 40px;" alt="vuejs"></i></a>
+        <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg"  alt="rails" width="50" height="50"/></a>
+        <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="ruby" width="50" height="50"/></i></a>
+        <a href="https://stackshare.io/nodejs" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="50" height="50"/></a>
+        <a href="https://stackshare.io/vue-js" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50"/></i></a>
         <a href="https://stackshare.io/javascript" target="_blank"><i class="devicon-javascript-plain colored" style="font-size: 40px;" alt="javascript"></i></a>
         <a href="https://stackshare.io/html5" target="_blank"><i class="devicon-html5-plain colored" style="font-size: 40px;" alt="html5"></i></a>
         <a href="https://stackshare.io/git" target="_blank"><i class="devicon-git-plain colored" style="font-size: 40px;" alt="git"></i></a>
