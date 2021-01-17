@@ -74,9 +74,9 @@
         <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg"  alt="rails" width="50" height="50"/></a>
         <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="ruby" width="50" height="50"/></i></a>
         <a href="https://stackshare.io/nodejs" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="50" height="50"/></a>
-        <a href="https://stackshare.io/vue-js" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50"/></i></a>
-        <a href="https://stackshare.io/javascript" target="_blank"><i class="devicon-javascript-plain colored" style="font-size: 40px;" alt="javascript"></i></a>
-        <a href="https://stackshare.io/html5" target="_blank"><i class="devicon-html5-plain colored" style="font-size: 40px;" alt="html5"></i></a>
+        <a href="https://stackshare.io/vue-js" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50"/></a>
+        <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/></a>
+        <a href="https://stackshare.io/html5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="50" height="50"/></a>
         <a href="https://stackshare.io/git" target="_blank"><i class="devicon-git-plain colored" style="font-size: 40px;" alt="git"></i></a>
         <a href="https://stackshare.io/github" target="_blank"><i class="devicon-github-plain colored" style="font-size: 40px;" alt="github"></i></a>
         <a href="https://stackshare.io/linux" target="_blank"><i class="devicon-linux-plain colored" style="font-size: 40px;" alt="linux"></i></a>
