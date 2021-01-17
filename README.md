@@ -77,10 +77,10 @@
         <a href="https://stackshare.io/vue-js" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50"/></a>
         <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/></a>
         <a href="https://stackshare.io/html5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="50" height="50"/></a>
-        <a href="https://stackshare.io/git" target="_blank"><i class="devicon-git-plain colored" style="font-size: 40px;" alt="git"></i></a>
-        <a href="https://stackshare.io/github" target="_blank"><i class="devicon-github-plain colored" style="font-size: 40px;" alt="github"></i></a>
-        <a href="https://stackshare.io/linux" target="_blank"><i class="devicon-linux-plain colored" style="font-size: 40px;" alt="linux"></i></a>
-        <a href="https://stackshare.io/ubuntu" target="_blank"><i class="devicon-ubuntu-plain colored" style="font-size: 40px;" alt="ubuntu"></i></a>
+        <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="git" width="50" height="50"/></a>
+        <a href="https://stackshare.io/github" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="50" height="50"/></a>
+        <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" width="50" height="50"/></a>
+        <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></a>
         <h4 align="left">Medium Skill:</h4>
         <a href="https://stackshare.io/search/q=aws" target="_blank"><i class="devicon-amazonwebservices-original colored" style="font-size: 40px;" alt="aws"></i></a>
         <a href="https://stackshare.io/heroku" target="_blank"><i class="devicon-heroku-plain colored" style="font-size: 50px;" alt="heroku"></i></a>
