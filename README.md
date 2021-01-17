@@ -82,15 +82,15 @@
         <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="linux" width="50" height="50"/></a>
         <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></a>
         <h4 align="left">Medium Skill:</h4>
-        <a href="https://stackshare.io/search/q=aws" target="_blank"><i class="devicon-amazonwebservices-original colored" style="font-size: 40px;" alt="aws"></i></a>
-        <a href="https://stackshare.io/heroku" target="_blank"><i class="devicon-heroku-plain colored" style="font-size: 50px;" alt="heroku"></i></a>
-        <a href="https://stackshare.io/docker" target="_blank"><i class="devicon-docker-plain-wordmark colored" style="font-size: 40px;" alt="docker"></i></a>
-        <a href="https://stackshare.io/vagrant" target="_blank"><i class="devicon-vagrant-plain colored" style="font-size: 40px;" alt="vagrant"></i></a>
-        <a href="https://stackshare.io/angular" target="_blank"><i class="devicon-angularjs-plain colored" style="font-size: 40px;" alt="angularjs"></i></a>
-	      <a href="https://stackshare.io/postgresql" target="_blank"><i class="devicon-postgresql-plain colored" style="font-size: 40px;" alt="postgresql"></i></a>
-        <a href="https://stackshare.io/mysql" target="_blank"><i class="devicon-mysql-plain-wordmark colored" style="font-size: 50px;" alt="mysql"></i></a>
-        <a href="https://stackshare.io/mongodb" target="_blank"><i class="devicon-mongodb-plain-wordmark colored" style="font-size: 50px;" alt="mongodb"></i></a>
-        <a href="https://stackshare.io/python" target="_blank"><i class="devicon-python-plain colored" style="font-size: 50px;" alt="python"></i></a>        
+        <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/></a>
+        <a href="https://stackshare.io/heroku" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="50" height="50"/></a>
+        <a href="https://stackshare.io/docker" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/></a>
+        <a href="https://stackshare.io/vagrant" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original-wordmark.svg" alt="vagrant" width="70" height="70"/></a>
+        <a href="https://stackshare.io/angular" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="50" height="50"/></a>
+	      <a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/></a>
+        <a href="https://stackshare.io/mysql" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>
+        <a href="https://stackshare.io/mongodb" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></a>
+        <a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>        
         <a href="https://stackshare.io/sidekiq" target="_blank"><img src="https://img.stackshare.io/service/1078/4b7277462dadad85454ab427ce3f0ca7.png" alt="sidekiq" width="50" height="50" /></a>
         <h4 align="left">Low Skill:</h4>
         <a href="https://stackshare.io/elasticsearch" target="_blank"><img src="https://vocon-it.com/wp-content/uploads/2016/11/elasticsearch_logo.png" alt="elasticsearch" width="100" height="50" /></a>
