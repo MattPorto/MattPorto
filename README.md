@@ -94,15 +94,16 @@
         <a href="https://stackshare.io/sidekiq" target="_blank"><img src="https://img.stackshare.io/service/1078/4b7277462dadad85454ab427ce3f0ca7.png" alt="sidekiq" width="50" height="50" /></a>
         <h4 align="left">Low Skill:</h4>
         <a href="https://stackshare.io/elasticsearch" target="_blank"><img src="https://vocon-it.com/wp-content/uploads/2016/11/elasticsearch_logo.png" alt="elasticsearch" width="100" height="50" /></a>
-        <a href="https://stackshare.io/redis" target="_blank"><i class="devicon-redis-plain colored" style="font-size: 50px;" alt="redis"></i></a>
-        <a href="https://stackshare.io/django" target="_blank"><i class="devicon-django-plain colored" style="font-size: 50px;" alt="django"></i></a>
+        <a href="https://stackshare.io/redis" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/></a>
+        <a href="https://stackshare.io/django" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="50" height="50"/></a>
         <a href="https://stackshare.io/anaconda" target="_blank"><img src="https://img.stackshare.io/service/4168/vB6sRNsh_400x400.jpg" alt="anaconda" width="40" height="40" /></a>
         <a href="https://stackshare.io/tensorflow" target="_blank"><img src="https://img.stackshare.io/service/4717/FtFnqC38_400x400.png" alt="anaconda" width="40" height="40" /></a>
     </p>
     <h3 align="left">Studies:</h3>
     <p align="left">
-      <a href="https://stackshare.io/ruby" target="_blank"><i class="devicon-ruby-plain colored" alt="ruby" style="font-size: 40px;"></i>
-      <a href="https://stackshare.io/rails" target="_blank"><i class="devicon-rails-plain-wordmark colored" style="font-size: 40px;" alt="rails"></i></a>
-      <a href="https://stackshare.io/vue-js" target="_blank"><i class="devicon-vuejs-plain colored" style="font-size: 40px;" alt="vuejs"></i></a>
+	<a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="ruby" width="50" height="50"/></i></a>
+      <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg"  alt="rails" width="50" height="50"/></a>
+      <a href="https://stackshare.io/vue-js" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50"/></a>
+      <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/></a>
     </p>
 
