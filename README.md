@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MattPorto" alt="marcodotcastro" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MattPorto" alt="mattporto" /> </p>
 
 
 <h3>Open Source Projects</h3>
