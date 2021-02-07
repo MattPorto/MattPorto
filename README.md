@@ -1,4 +1,4 @@
-# Hey there, I'm Matheus Porto 
+# Hey there, I'm Matz 
 <p align="left">    
     <h3 align="left">Contact Me:</h3>
     <a href="https://linkedin.com/in/matheus-porto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mattporto" height="30" width="40" /></a>
