@@ -27,12 +27,12 @@
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a href="https://github.com/MattPorto/consulta-cpf"><b>Consulta CPF</b></a></td>
+            	<td><a href="https://github.com/MattPorto/lol-wrapper"><b>LoL Wrapper Gem</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/MattPorto/consulta-cpf?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/MattPorto/consulta-cpf?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/MattPorto/consulta-cpf?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MattPorto/consulta-cpf?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/MattPorto/lol-wrapper?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/MattPorto/lol-wrapper?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/MattPorto/lol-wrapper?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MattPorto/lol-wrapper?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
 		<td>2</td>
