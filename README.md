@@ -43,24 +43,6 @@
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/MattPorto/log-line-parser?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MattPorto/log-line-parser?style=flat-square&labelColor=343b41" /></td>
         </tr>
-        <tr>
-		<td>3</td>
-            	<td><a href="https://github.com/MattPorto/facial-recognition"><b>Facial Recognition</b></a></td>
-		<td>Machine Learning</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/MattPorto/facial-recognition?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/MattPorto/facial-recognition?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/MattPorto/facial-recognition?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MattPorto/facial-recognition?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-	 <tr>
-		<td>4</td>
-            	<td><a href="https://github.com/MattPorto/ai_reinforcement_learning"><b>AI Studies</b></a></td>
-		<td>Artificial Intelligence</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/MattPorto/ai_reinforcement_learning?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/MattPorto/ai_reinforcement_learning?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/MattPorto/ai_reinforcement_learning?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/MattPorto/ai_reinforcement_learning?style=flat-square&labelColor=343b41" /></td>
-        </tr>
     </tbody>
 </table>
 
