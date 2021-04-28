@@ -37,7 +37,7 @@
         <tr>
 		<td>2</td>
 		<td><a href="https://github.com/MattPorto/log-line-parser"><b>Log Analysis (Ruby Only)</b></a></td>
-	 	<td>Developer/Tools</td>
+	 	<td>Developer / Tools</td>
 	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/MattPorto/log-line-parser?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Forks" src="https://img.shields.io/github/forks/MattPorto/log-line-parser?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/MattPorto/log-line-parser?style=flat-square&labelColor=343b41" /></td>
