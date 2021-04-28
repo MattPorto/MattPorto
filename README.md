@@ -105,5 +105,6 @@
       <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg"  alt="rails" width="50" height="50"/></a>
       <a href="https://stackshare.io/vue-js" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="50" height="50"/></a>
       <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="50" height="50"/></a>
+      <a href="https://stackshare.io/nodejs" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="50" height="50"/></a>
     </p>
 
