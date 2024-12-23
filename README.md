@@ -1,7 +1,7 @@
+<p align="center"><img src="https://komarev.com/ghpvc/?username=MattPorto" alt="mattporto" /></p>
+
 ### Hey, I'm Matt 👋🏾
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-porto/)
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=MattPorto" alt="mattporto" /></p>
 
 ![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattPorto&show_icons=true&theme=dracula)
 
