@@ -7,7 +7,7 @@
 
 
 ### Open Source Projects
-<table>
+<table align="center">
 	<thead align="center">
 		<tr border: none;>
 			<td><b>Project</b></td>
